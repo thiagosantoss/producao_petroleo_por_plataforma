@@ -1,3 +1,7 @@
 # producao_petroleo_por_plataforma
-Gráficos da Produção de petróleo / Gás natural (Mm³/dia) / Água (bbl/dia) por Plataforma e realizando uma regressão linear. 
-Foi utilizado: Pandas, Matplotlib e Numpy
+
+Periodo analizado 2009 a 2018
+
+Utlizando a biblioteca Pandas para minerar os dados de Produção de petróleo / Gás natural (Mm³/dia) / Água (bbl/dia) por Plataforma, do arquivo xls disponiblizado pela ANP.
+
+Gráficos gerados usando a biblioteca Matplotlib
